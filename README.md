@@ -1,3 +1,3 @@
 # bloom-florist
 
-[Preview](https://bloom-florist.web.app/)
+[Preview](https://bloom-florist.vercel.app/)
